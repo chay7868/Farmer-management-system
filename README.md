@@ -1,4 +1,4 @@
-# Farmener Management system
+# Farmer Management system
 Database Managament System mini project 
 #python
 #flask
